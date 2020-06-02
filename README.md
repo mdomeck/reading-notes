@@ -5,5 +5,5 @@ Reading Notes 201d64
 
 ### Table of Contents
 - [Class 01](class-01.md)
-
+- [Class 02](class-02.md)
 
