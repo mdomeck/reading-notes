@@ -2,7 +2,7 @@
 - `<img>` element to add images to a web page
 - must always use src attribute to escribe the content of an image
 - store images in a folder with the web files
-- best saved in jpeg
+- best saved in jpeg, png for text photos
 
 # Color, Ch 11
 - color conveys mood and brings reaction
