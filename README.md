@@ -11,4 +11,6 @@ Reading Notes 201d64
 - [Class 05](class-05.md)
 - [Class 06](class-06.md)
 - [Class 07](class-07.md)
+- [Class 08](class-08.md)
+
  
