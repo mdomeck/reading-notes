@@ -16,6 +16,7 @@ Reading Notes 201d64
 - [Class 10](class-10.md)
 - [Class 11](class-11.md)
 - [Class 12](class-12.md)
+- [Class 13](class-13.md)
 
 
  
