@@ -4,6 +4,7 @@
 
 ### Table of Contents
 - [Reading 01](reading-01.md)
+- [Reading 02](reading-02.md)
 
 
 ## Code 301 - Intermediate Software Development
