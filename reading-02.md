@@ -14,5 +14,5 @@
   }
 
 2. for-each
-1. While: most fundemental, repeats a statement or a block of statements while its controlling Boolean-expression is true
-1. Do-While: works like While escept the first condition evaluation happens after the first iteration of the loop
+1. While: most fundamental, repeats a statement or a block of statements while its controlling Boolean-expression is true
+1. Do-While: works like While except the first condition evaluation happens after the first iteration of the loop
