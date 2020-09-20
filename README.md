@@ -7,6 +7,7 @@
 - [Reading 02](reading-02.md)
 - [Reading 03](reading-04.md)
 - [Reading 04](reading-04.md)
+- [Reading 06](reding-06.md)
 
 
 ## Code 301 - Intermediate Software Development
