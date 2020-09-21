@@ -14,4 +14,22 @@ In the real world, you'll often find many individual objects all of the same kin
 
 A class declaration names the class and encloses the class body between braces. The class name can be preceded by modifiers. The class body contains fields, methods, and constructors for the class. A class uses fields to contain state information and uses methods to implement behavior. Constructors that initialize a new instance of a class use the name of the class and look like methods without a return type.
 
-## Java Inheritance & Interfaces 
+## Java Inheritance & Interfaces
+
+### Interfaces
+
+- Interfaces are contracts that spells out how their software interacts. Each group should be able to write their code without the knowledge of how the other groups code is written.
+- Interface is a reference type similar to a class that can contain only constants, method signatures, default methods, static methods and nested types
+- Interfaces cannot be instantiated
+- A class tht implements an interfave must implement all the methods declared in the interface
+
+### Inheritance
+- When you want to crate a new class and there i already a clss that includes some of the code that you want you can derive your new class from the existing class. In doing this you can reuse the fields and methods of the existing class without having to write them yourself.
+- A subclass inherits all the members from its superclass. Constructors are not memebers but can be invoked by the subclass.
+- classes can have fields whereas interfaces cannot
+- Except for the *Object* class a class has exactly one direct superclass. A class inherits fields and methods from all its superclasses whether direct or indirect. A subclass can override methods that it inherits or it can hide fields of methods that it inherits.
+- The *Object* class is the top of the class hierarchy. All classes are descendants from this class and inherit methods from it. Useful methods inherited from Object include *toString()*, *equals()*, *clone()*, and *getClass()*
+- You can prevent a class from being subclasses by using the *final* keyword in the class's declaration
+- You can prevent a method from being overridden by subclasses by declaring it as a final method
+- 
+
