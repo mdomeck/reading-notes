@@ -31,5 +31,5 @@ A class declaration names the class and encloses the class body between braces. 
 - The *Object* class is the top of the class hierarchy. All classes are descendants from this class and inherit methods from it. Useful methods inherited from Object include *toString()*, *equals()*, *clone()*, and *getClass()*
 - You can prevent a class from being subclasses by using the *final* keyword in the class's declaration
 - You can prevent a method from being overridden by subclasses by declaring it as a final method
-- 
+
 
