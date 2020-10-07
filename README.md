@@ -15,6 +15,7 @@
 - [Reading 13](reading-13.md)
 - [Reading 16](reading-16.md)
 - [Reading 17](reading-17.md)
+- [Reading 18](reading-18.md)
 
 
 ## Code 301 - Intermediate Software Development
