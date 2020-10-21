@@ -1,0 +1,12 @@
+## Recycler View 
+- scrolling list of elements based on large data sets
+- `RecyclerView` is more advanced and flexible version of `ListView`
+- fills itself with views provided by a layout manager that you provide. Standard layout managers `LinearLayoutManager` or `GridLayoutManager` or implement your own.
+- As the user scrolls through the list the `RecyclerView` takes the off-screen views and rebinds them to the data which is scrolling onto the screen
+- view holder objects are managed by an *adapter* which you create by extending `RecyclerView.Adapter`
+- `RecyclerView` creates new view holders as necessary.
+- Add support library to the `dependencies`
+- add `RecyclerView` to your layout file. connect it to a layout manager and attach an adapter for the data to be displayed
+- add a list adapter. This object creates views for items and replaces the content of some of the views with new data items when the original item is no longer visible.
+- `onCreateViewHolder()` method needs to construct a `RecyclerView.ViewHolder` and set the view it uses to display its contents.
+- customize by modifying the layout, adding item animations, enable list-item selections
