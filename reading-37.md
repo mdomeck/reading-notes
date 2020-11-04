@@ -1,6 +1,7 @@
 ## Intro to Amazon S3
+- https://docs.aws.amazon.com/AmazonS3/latest/dev/Introduction.html 
 - Simple Storage Service
-- has a simple web services interface that can be used to store and retrieve any amout of data at any time from anywhere on the web
+- has a simple web services interface that can be used to store and retrieve any amout of data at any time anywhere 
 - focuses on simplicity and robustness
   - Creating buckets – Create and name a bucket that stores data. Buckets are the fundamental containers in Amazon S3 for data storage.
   - Storing data – Store an infinite amount of data in a bucket. Upload as many objects as you like into an Amazon S3 bucket. Each object can contain up to 5 TB of data. Each object is stored and retrieved using a unique developer-assigned key.
